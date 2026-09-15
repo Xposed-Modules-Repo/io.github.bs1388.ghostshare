@@ -46,4 +46,4 @@ Copyright (C) 2026 [BS1388](https://github.com/BS1388) Licensed under the GNU GP
 
 ---
 
-Developed with ❤️ by [BS1388](https://github.com/BS1388)
+Developed with by [BS1388](https://github.com/BS1388)
